@@ -1,0 +1,36 @@
+\contentsline {section}{\numberline {1}\relax \fontsize {20.74}{25}\selectfont 实验题目}{2}{section.1}% 
+\contentsline {section}{\numberline {2}\relax \fontsize {20.74}{25}\selectfont 实验目的}{2}{section.2}% 
+\contentsline {section}{\numberline {3}\relax \fontsize {20.74}{25}\selectfont 实验要求}{2}{section.3}% 
+\contentsline {section}{\numberline {4}\relax \fontsize {20.74}{25}\selectfont 实验内容}{3}{section.4}% 
+\contentsline {section}{\numberline {5}\relax \fontsize {20.74}{25}\selectfont 实验方案}{3}{section.5}% 
+\contentsline {section}{\numberline {6}\relax \fontsize {20.74}{25}\selectfont 实验过程}{4}{section.6}% 
+\contentsline {subsection}{\numberline {6.1}\relax \fontsize {17.28}{22}\selectfont 安装虚拟机}{4}{subsection.6.1}% 
+\contentsline {paragraph}{}{4}{paragraph*.1}% 
+\contentsline {paragraph}{}{4}{paragraph*.2}% 
+\contentsline {subsection}{\numberline {6.2}\relax \fontsize {17.28}{22}\selectfont 获取可视化编辑十六进制文件内容的工具}{5}{subsection.6.2}% 
+\contentsline {paragraph}{}{5}{paragraph*.3}% 
+\contentsline {subsection}{\numberline {6.3}\relax \fontsize {17.28}{22}\selectfont 安装nasm}{6}{subsection.6.3}% 
+\contentsline {paragraph}{}{6}{paragraph*.4}% 
+\contentsline {paragraph}{}{8}{paragraph*.5}% 
+\contentsline {paragraph}{}{8}{paragraph*.6}% 
+\contentsline {paragraph}{}{9}{paragraph*.7}% 
+\contentsline {paragraph}{}{9}{paragraph*.8}% 
+\contentsline {subsection}{\numberline {6.4}\relax \fontsize {17.28}{22}\selectfont 编辑引导程序代码}{10}{subsection.6.4}% 
+\contentsline {paragraph}{}{10}{paragraph*.9}% 
+\contentsline {paragraph}{}{11}{paragraph*.10}% 
+\contentsline {paragraph}{}{12}{paragraph*.11}% 
+\contentsline {paragraph}{}{12}{paragraph*.12}% 
+\contentsline {paragraph}{}{13}{paragraph*.13}% 
+\contentsline {paragraph}{}{14}{paragraph*.14}% 
+\contentsline {subsection}{\numberline {6.5}\relax \fontsize {17.28}{22}\selectfont 创建虚拟机，生成3个1.44MB的软盘映像文件}{14}{subsection.6.5}% 
+\contentsline {paragraph}{}{14}{paragraph*.15}% 
+\contentsline {subsection}{\numberline {6.6}\relax \fontsize {17.28}{22}\selectfont Message.img写入个人信息}{18}{subsection.6.6}% 
+\contentsline {paragraph}{}{18}{paragraph*.16}% 
+\contentsline {section}{\numberline {7}\relax \fontsize {20.74}{25}\selectfont 实验总结}{19}{section.7}% 
+\contentsline {paragraph}{}{19}{paragraph*.17}% 
+\contentsline {paragraph}{}{19}{paragraph*.18}% 
+\contentsline {paragraph}{}{19}{paragraph*.19}% 
+\contentsline {paragraph}{}{19}{paragraph*.20}% 
+\contentsline {paragraph}{}{20}{paragraph*.21}% 
+\contentsline {paragraph}{}{20}{paragraph*.22}% 
+\contentsline {section}{\numberline {8}\relax \fontsize {20.74}{25}\selectfont 参考资料}{20}{section.8}% 
